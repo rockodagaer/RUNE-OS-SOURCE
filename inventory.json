@@ -1,0 +1,188 @@
+{
+    "junk": [
+        2,
+        10,
+        5,
+        "junk"
+    ],
+    "silver coin": [
+        0,
+        20,
+        15,
+        "junk"
+    ],
+    "gold coin": [
+        0,
+        60,
+        50,
+        "junk"
+    ],
+    "shrimp": [
+        4,
+        2,
+        1,
+        "food"
+    ],
+    "salmon": [
+        1,
+        4,
+        2,
+        "food"
+    ],
+    "light fish": [
+        3,
+        4,
+        3,
+        "food"
+    ],
+    "heavy fish": [
+        0,
+        6,
+        5,
+        "food"
+    ],
+    "pork": [
+        0,
+        10,
+        5,
+        "food"
+    ],
+    "chicken": [
+        0,
+        20,
+        10,
+        "food"
+    ],
+    "steak": [
+        0,
+        30,
+        20,
+        "food"
+    ],
+    "bone": [
+        0,
+        1,
+        1,
+        "bone"
+    ],
+    "big bone": [
+        0,
+        2,
+        2,
+        "bone"
+    ],
+    "large bone": [
+        0,
+        3,
+        3,
+        "bone"
+    ],
+    "cooked shrimp": [
+        0,
+        4,
+        2,
+        "cooked food"
+    ],
+    "cooked salmon": [
+        0,
+        8,
+        4,
+        "cooked food"
+    ],
+    "cooked light fish": [
+        0,
+        8,
+        6,
+        "cooked food"
+    ],
+    "cooked heavy fish": [
+        0,
+        15,
+        10,
+        "cooked food"
+    ],
+    "cooked pork": [
+        0,
+        20,
+        10,
+        "cooked food"
+    ],
+    "cooked chicken": [
+        0,
+        40,
+        20,
+        "cooked food"
+    ],
+    "cooked steak": [
+        0,
+        60,
+        30,
+        "cooked food"
+    ],
+    "rune essence": [
+        0,
+        1,
+        1,
+        "ore"
+    ],
+    "broken wood dagger": [
+        0,
+        50,
+        10,
+        "broken weapon"
+    ],
+    "broken bronze dagger": [
+        0,
+        50,
+        10,
+        "broken weapon"
+    ],
+    "broken silver dagger": [
+        0,
+        50,
+        10,
+        "broken weapon"
+    ],
+    "broken gold dagger": [
+        0,
+        50,
+        10,
+        "broken weapon"
+    ],
+    "broken rune dagger": [
+        0,
+        50,
+        10,
+        "broken weapon"
+    ],
+    "wood dagger": [
+        0,
+        50,
+        5,
+        "weapon"
+    ],
+    "bronze dagger": [
+        1,
+        100,
+        20,
+        "weapon"
+    ],
+    "silver dagger": [
+        0,
+        300,
+        30,
+        "weapon"
+    ],
+    "gold dagger": [
+        0,
+        600,
+        50,
+        "weapon"
+    ],
+    "rune dagger": [
+        0,
+        800,
+        80,
+        "weapon"
+    ]
+}

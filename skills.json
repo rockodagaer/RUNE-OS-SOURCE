@@ -1,0 +1,87 @@
+{
+    "skills": {
+        "fishing": {
+            "lvl": 1,
+            "xp": 68,
+            "needed": 100
+        },
+        "prayer": {
+            "lvl": 1,
+            "xp": 0,
+            "needed": 100
+        },
+        "cooking": {
+            "lvl": 1,
+            "xp": 0,
+            "needed": 100
+        },
+        "mining": {
+            "lvl": 1,
+            "xp": 0,
+            "needed": 100
+        }
+    },
+    "combat": {
+        "attack": {
+            "lvl": 1,
+            "xp": 27,
+            "needed": 100
+        },
+        "strength": {
+            "lvl": 1,
+            "xp": 0,
+            "needed": 100
+        },
+        "defense": {
+            "lvl": 1,
+            "xp": 0,
+            "needed": 100
+        },
+        "magic": {
+            "lvl": 1,
+            "xp": 0,
+            "needed": 100
+        }
+    },
+    "needs": {
+        "health": 99.0,
+        "hunger": 650.0,
+        "reputation": 50
+    },
+    "money": 60,
+    "offline": {
+        "kills": {
+            "plant": 0,
+            "chicken": 0,
+            "pig": 0,
+            "cow": 0,
+            "woman": 1,
+            "melee goblin": 0,
+            "man": 0,
+            "farmer": 0,
+            "scarr's minion": 1,
+            "scarr's weak bodyguard (BOSS)": 0,
+            "bloodthirsty rabbit": 0,
+            "tree goblin": 0,
+            "wolf cub": 0,
+            "Scarr's fast minion": 0,
+            "fox": 0,
+            "weak goblin giant": 0,
+            "wolf": 0,
+            "big fox": 0,
+            "goblin giant (BOSS)": 0
+        },
+        "mission": {
+            "lvl": 0
+        },
+        "difficulty": {
+            "exponent": 1.5,
+            "growth": 1.1,
+            "lvl": 1
+        },
+        "mail": {
+            "error": false,
+            "lvl": 0
+        }
+    }
+}
